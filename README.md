@@ -4,7 +4,7 @@ https://emmanuelagyemang199.github.io/eahack/
 # eahack
 eahack team has Brougth this Idea to make graditude to the resources of coding our big project 🚀
 
-< p align="center">
+
 <img width="904" alt="ALL" src="https://github.com/emmanuelagyemang199/eahack/blob/main/149229-widescreen-school-wallpaper-1920x1200-for-hd.jpg">
 
 ## Documentation
