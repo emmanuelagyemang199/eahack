@@ -29,7 +29,7 @@ NOTE: We  Are serious about our project so all seriousness asured .
 ## Contributors
 <div>
 <p>ABRAHAM</p></div>
-EMMANUEL
+<div>EMMANUEL</Div>
 <p>iSAAC</p>
 <P>NANA</P>
 
