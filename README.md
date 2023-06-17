@@ -3,6 +3,12 @@ https://emmanuelagyemang199.github.io/eahack/
 
 # eahack
 eahack team has Brougth this Idea to make graditude to the resources of coding our big project 🚀
+<p>## ```Connect With Me```
+<p align="center">
+<a href="https://wa.me/233576635791"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://"><img src="https://img.shields.io/badge/contact Emmanuel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> /><br>
+</p>
+</p>
 
 
 <img width="904" alt="ALL" src="https://github.com/emmanuelagyemang199/eahack/blob/main/149229-widescreen-school-wallpaper-1920x1200-for-hd.jpg">
