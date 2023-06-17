@@ -1,7 +1,7 @@
 OUR PROJECT IS LIVE ON THIS  (we have deployed our website online to enable the team to code and check it live through the link provided )👉
 https://emmanuelagyemang199.github.io/eahack/
 
-# eahack
+<P align="center">eahack</p>
 eahack team has Brougth this Idea to make graditude to the resources of coding our big project 🚀
 <p>## ```Connect With US```👇
 <p align="center">
